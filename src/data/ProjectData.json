@@ -1,0 +1,32 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Todo with Authentication",
+      "description": "Made using Next.js and Firebase",
+      "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link": "https://devesh-project.vercel.app/login"
+    },
+    {
+      "id": 2,
+      "title": "AI-Powered Image Creation",
+      "description": "Made using ReactJs and Tailwind CSS",
+      "image": "https://plus.unsplash.com/premium_photo-1682407404565-23eda9b60f14?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link": "https://openai-img-generator.netlify.app/"
+    },
+    {
+      "id": 3,
+      "title": "Tweet Sentiment Analyze",
+      "description": "Made using OpenAI API",
+      "image": "https://images.unsplash.com/photo-1611162618479-ee3d24aaef0b?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link": "https://tweet-sentiments.netlify.app/"
+    },
+    {
+      "id": 4,
+      "title": "Mini ChatGPT",
+      "description": "Made using OpenAI API",
+      "image": "https://images.unsplash.com/photo-1674027444454-97b822a997b6?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "link": "https://deveshgpt.netlify.app/"
+    }
+  ]
+}
